@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Blogr landing page
 
 ![Design preview for the Blogr landing page coding challenge](preview.jpg)
@@ -90,3 +91,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# landingpage     This project is my attempt to build the Blogr website design from Frontend Mentor using Bootstrap. I’m still learning Bootstrap, and I found some parts a bit confusing, especially with how to use the grid and components properly. I tried my best to make the site look like the design and be responsive on different screen sizes. I plan to communicate with my team and instructors about the areas I’m struggling with so I can improve and get better at using Bootstrap. For now, the site includes a navbar, some content sections, and buttons styled with Bootstrap classes, along with some custom CSS to help with the look. I hope to keep practicing and refining this project as I learn more.
+
+71cba624bb09fc00b44d9bc8f6be297a9d28c76b
